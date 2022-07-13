@@ -1,0 +1,42 @@
+{
+  "files.associations": {
+    "stdlib.h": "c",
+    "driver.h": "c",
+    "uart.h": "c",
+    "gpio.h": "c",
+    "addressmap.h": "c",
+    "pico.h": "c",
+    "types.h": "c",
+    "stdbool.h": "c",
+    "stdint.h": "c",
+    "irq.h": "c",
+    "address_mapped.h": "c",
+    "intctrl.h": "c",
+    "doc.h": "c",
+    "tusb.h": "c",
+    "hid_host.h": "c",
+    "tusb_common.h": "c",
+    "hid_device.h": "c",
+    "usb.h": "c",
+    "usb_descriptors.h": "c",
+    "tusb_fifo.h": "c",
+    "tusb_timeout.h": "c",
+    "tusb_error.h": "c",
+    "tusb_types.h": "c",
+    "tusb_verify.h": "c",
+    "tusb_compiler.h": "c",
+    "tusb_option.h": "c",
+    "osal.h": "c",
+    "usbd.h": "c",
+    "board.h": "c",
+    "hid.h": "c",
+    "stdio.h": "c"
+  },
+  "cmake.generator": "Unix Makefiles",
+  "cmake.configureEnvironment": {
+    "PICO_SDK_PATH": "../../raspberry-pi-pico/pico-sdk"
+  },
+  "cmake.environment": {
+    "PICO_SDK_PATH": "../../raspberry-pi-pico/pico-sdk"
+  }
+}
